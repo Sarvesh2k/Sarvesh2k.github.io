@@ -1,3 +1,3 @@
-# Sarvesh2k.github.io
+# Static Website Design
 
-This is where I will build my Super Developer website.
+A simple responsive webpage built using HTML and CSS.
